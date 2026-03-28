@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "Lab11 Task2",
+    "slug": "lab11-task2",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
